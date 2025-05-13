@@ -55,6 +55,7 @@ python interactive_qa.py
 
 ## Project Structure:
 SubjectQA/
+
 ├── data/ # Data directory
 
 ├── models/ # Model implementations
