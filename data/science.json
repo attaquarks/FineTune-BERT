@@ -1,0 +1,26 @@
+[
+    {
+        "context": "Water boils at 100 degrees Celsius at standard pressure.",
+        "question": "At what temperature does water boil?",
+        "answers": {
+            "text": "100 degrees Celsius",
+            "answer_start": 13
+        }
+    },
+    {
+        "context": "The Earth revolves around the Sun in an elliptical orbit. This journey takes approximately 365.25 days, which is why we have a leap year every four years.",
+        "question": "How long does it take for the Earth to revolve around the Sun?",
+        "answers": {
+            "text": "approximately 365.25 days",
+            "answer_start": 70
+        }
+    },
+    {
+        "context": "Photosynthesis is a process used by plants, algae, and certain bacteria to convert light energy into chemical energy, through a process that uses sunlight, water, and carbon dioxide.",
+        "question": "What are the main inputs for photosynthesis?",
+        "answers": {
+            "text": "sunlight, water, and carbon dioxide",
+            "answer_start": 132
+        }
+    }
+] 

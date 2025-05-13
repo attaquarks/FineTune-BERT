@@ -1,0 +1,26 @@
+﻿[
+    {
+        "context": "Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+        "question": "What type of programming language is Python?",
+        "answers": {
+            "text": "high-level, interpreted, general-purpose",
+            "answer_start": 15
+        }
+    },
+    {
+        "context": "A data structure is a way of organizing data in a computer so that it can be accessed and modified efficiently. Examples include arrays, linked lists, stacks, and queues.",
+        "question": "What is an example of a data structure?",
+        "answers": {
+            "text": "arrays",
+            "answer_start": 124
+        }
+    },
+    {
+        "context": "An algorithm is a finite sequence of rigorous instructions, typically used to solve a class of specific problems or to perform a computation.",
+        "question": "What is an algorithm used to solve?",
+        "answers": {
+            "text": "a class of specific problems or to perform a computation",
+            "answer_start": 60
+        }
+    }
+]

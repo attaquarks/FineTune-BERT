@@ -1,0 +1,19 @@
+﻿# Ignore virtual environment directory
+.venv/
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore output and log directories created during training
+models/*_bert_qa_output/
+models/*_bert_qa_logs/
+models/*_bert_qa_final/
+models/*_bert_qa/
+
+# Ignore specific files if needed (uncomment if you don't want these)
+# interactive_qa.py
+# run_qa.bat
+
+# Add any other large or unnecessary files/folders here
