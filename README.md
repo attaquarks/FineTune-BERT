@@ -56,11 +56,17 @@ python interactive_qa.py
 ## Project Structure:
 SubjectQA/
 ├── data/ # Data directory
+
 ├── models/ # Model implementations
+
 ├── scripts/ # Utility scripts
+
 ├── utils/ # Helper utilities
+
 ├── config.py # Configuration settings
+
 ├── interactive_qa.py # Main interactive interface
+
 └── requirements.txt # Project dependencies
 
 
